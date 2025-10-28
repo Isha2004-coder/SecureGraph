@@ -11,6 +11,7 @@
 ```bash
 pip install -r requirements.txt
 streamlit run securegraph_app.py
+```
 Then open the provided URL (usually http://localhost:8501) in your browser.
 Tech Stack
 Python · Pandas · NetworkX · Streamlit
