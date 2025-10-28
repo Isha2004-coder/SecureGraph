@@ -13,9 +13,10 @@ pip install -r requirements.txt
 streamlit run securegraph_app.py
 ```
 Then open the provided URL (usually http://localhost:8501) in your browser.
-Tech Stack
+
+## Tech Stack
 Python · Pandas · NetworkX · Streamlit
-Future Work
+## Future Work
 Real-time data visualization
 Export and reporting tools
 Integration with live network feeds
