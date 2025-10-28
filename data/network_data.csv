@@ -1,0 +1,16 @@
+source,destination,latency_ms,segment,attack_flag
+Node_A,Node_B,35,Segment_1,0
+Node_B,Node_C,70,Segment_1,1
+Node_C,Node_D,22,Segment_1,0
+Node_D,Node_E,50,Segment_2,0
+Node_E,Node_F,95,Segment_2,1
+Node_F,Node_G,40,Segment_2,0
+Node_G,Node_H,30,Segment_3,0
+Node_H,Node_I,120,Segment_3,1
+Node_I,Node_J,25,Segment_3,0
+Node_J,Node_K,60,Segment_4,0
+Node_K,Node_L,85,Segment_4,1
+Node_L,Node_M,15,Segment_4,0
+Node_M,Node_N,200,Segment_5,1
+Node_N,Node_O,45,Segment_5,0
+Node_O,Node_P,55,Segment_5,0
